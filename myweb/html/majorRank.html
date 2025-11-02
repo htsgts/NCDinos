@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <title>NC Dinos 홈페이지</title>
+  <link href="../css/style.css" rel="stylesheet" />
+  <link href="../css/majorRank.css" rel="stylesheet" />
+  <link href="../css/visual.css" rel="stylesheet" />
+</head>
+
+<body>
+  <header>
+    <div class="header-top">
+      <a href="../index.html">
+        <img src="../img/nc_dinos_logo.png" alt="NC Dinos Logo" class="logo">
+      </a>
+    </div>
+    
+    <div id="menu-toggle">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+
+    <nav>
+      <ul class="main-menu">
+        <li><a href="club.html">구단소개</a></li>
+        <li><a href="majorRank.html">기록실</a></li>
+        <li><a href="team.html">선수단</a></li>
+        <li><a href="stadium.html">구장/시설안내</a></li>
+        <li><a href="https://www.ncdinos.com/story/photo.do" target="_blank">포토</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section class="visual">
+      <div class="visual-text">
+        <h1>정규리그 팀 기록</h1>
+        <p>전체 팀 순위와 타자, 투수들의 다양한 기록을 확인할 수 있습니다</p>
+      </div>
+      <div class="visual-logo">
+          <img src="../img/nc_dinos_logo_round.png" alt="NC Dinos Symbol">
+      </div>
+    </section>
+  <h1 class="h-top">정규리그 팀 기록</h1>
+
+  <!-- 탭 메뉴 -->
+  <div class="tab-menu">
+    <button class="active" data-tab="rank">팀 순위</button>
+    <button data-tab="attack">팀 투타 성적</button>
+    <button data-tab="match">팀간 승패표</button>
+  </div>
+
+  <!-- 팀 순위 -->
+  <div id="rank" class="tab-content active">
+    <div class="select-year">
+      <select id="rankYear">
+        <option value="2025" selected>2025</option>
+        <option value="2024">2024</option>
+        <option value="2023">2023</option>
+        <option value="2022">2022</option>
+        <option value="2021">2021</option>
+        <option value="2020">2020</option>
+        <option value="2019">2019</option>
+        <option value="2018">2018</option>
+        <option value="2017">2017</option>
+        <option value="2016">2016</option>
+      </select>
+    </div>
+    <h2>팀 순위</h2>
+    <div id="rankTableContainer"></div>
+  </div>
+
+  <!-- 팀 투타 성적 -->
+  <div id="attack" class="tab-content">
+    <div class="select-year">
+      <select id="attackYear">
+        <option value="2025" selected>2025</option>
+        <option value="2024">2024</option>
+        <option value="2023">2023</option>
+        <option value="2022">2022</option>
+        <option value="2021">2021</option>
+        <option value="2020">2020</option>
+        <option value="2019">2019</option>
+        <option value="2018">2018</option>
+        <option value="2017">2017</option>
+        <option value="2016">2016</option>
+      </select>
+    </div>
+    <h2>팀 공격 성적</h2>
+    <div id="attackTableContainer"></div>
+
+    <div class="select-year">
+      <select id="defenseYear">
+        <option value="2025" selected>2025</option>
+        <option value="2024">2024</option>
+        <option value="2023">2023</option>
+        <option value="2022">2022</option>
+        <option value="2021">2021</option>
+        <option value="2020">2020</option>
+        <option value="2019">2019</option>
+        <option value="2018">2018</option>
+        <option value="2017">2017</option>
+        <option value="2016">2016</option>
+      </select>
+    </div>
+
+    <h2>팀 수비 성적</h2>
+    <div id="defenseTableContainer"></div>
+  </div>
+
+  <!-- 팀간 승패표 -->
+  <div id="match" class="tab-content">
+    <div class="select-year">
+      <label>승·무·패 순</label>
+      <select id="matchYear">
+        <option value="2025" selected>2025</option>
+        <option value="2024">2024</option>
+        <option value="2023">2023</option>
+        <option value="2022">2022</option>
+        <option value="2021">2021</option>
+        <option value="2020">2020</option>
+        <option value="2019">2019</option>
+        <option value="2018">2018</option>
+        <option value="2017">2017</option>
+        <option value="2016">2016</option>
+      </select>
+    </div>
+    <h2>팀간 승패표</h2>
+    
+    <div id="matchTableContainer"></div>
+  </div>
+  </main>
+  
+  <footer>
+    <p>© 2025 NC Dinos. All Rights Reserved.</p>
+  </footer>
+
+  <script src="../js/main.js"></script>
+  <script src="../js/majorRank.js"></script>
+</body>
+</html>

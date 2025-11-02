@@ -1,0 +1,154 @@
+/* 구단소개 페이지 */
+
+/* 구단소개 영역 */
+.club-intro {
+  padding: 60px 10%;
+  display: flex;
+  justify-content: center;
+  background: #fff;
+}
+
+.intro-wrapper {
+  display: flex;
+  gap: 40px;
+  max-width: 1100px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.intro-image img {
+  width: 80%;
+  max-width: 700px;
+  height: auto;
+  margin-left: 0;
+}
+
+.intro-text {
+  flex: 1;
+  text-align: left;
+}
+
+.p1 {
+  font-size: 32px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 700;
+}
+
+.p2 {
+  font-size: 22px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 700;
+}
+
+/* NEW CHANGWON */
+.changwon-section {
+  background: #d9e6f4;
+  padding: 80px 10%;
+  overflow: hidden;
+}
+
+.changwon-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  gap: 50px;
+  position: relative;
+  z-index: 1;
+  flex-wrap: nowrap;
+}
+
+.changwon-text {
+  flex: 1 1 55%;
+  text-align: left;
+  order: 1;
+}
+
+.changwon-text h2 {
+  font-size: 2.2rem;
+  font-weight: bold;
+  margin-bottom: 25px;
+}
+
+.changwon-text p {
+  font-size: 1.2rem;
+  line-height: 1.6;
+}
+
+.changwon-image {
+  flex: 1 1 45%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  order: 2;
+  overflow: hidden;
+}
+
+.changwon-image img {
+  width: 100%;
+  max-width: 450px;
+  height: auto;
+  object-fit: contain;
+  flex-shrink: 1;
+}
+
+/* 반응형 설정 */
+
+/* 📱 태블릿 */
+@media (max-width: 1024px) {
+  .changwon-wrapper {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 40px;
+  }
+
+  .changwon-text {
+    order: 1;
+    width: 100%;
+  }
+
+  .changwon-image {
+    order: 2;
+    width: 100%;
+    justify-content: center;
+  }
+
+  .changwon-image img {
+    width: 75%;
+    max-width: 400px;
+  }
+}
+
+/* 📱 모바일 */
+@media (max-width: 600px) {
+  .p1 {
+    font-size: 26px;
+  }
+
+  .p2 {
+    font-size: 18px;
+  }
+
+  .changwon-section {
+    padding: 50px 5%;
+  }
+
+  .changwon-wrapper {
+    gap: 25px;
+  }
+
+  .changwon-text h2 {
+    font-size: 1.6rem;
+  }
+
+  .changwon-text p {
+    font-size: 1rem;
+  }
+
+  .changwon-image img {
+    width: 85%;
+    max-width: 320px;
+  }
+}

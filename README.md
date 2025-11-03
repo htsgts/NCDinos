@@ -25,14 +25,18 @@ NC 다이노스 웹 홈페이지
 ### 구장/시설안내<br>
   <img width="592" height="661" alt="image" src="https://github.com/user-attachments/assets/8015009c-e2df-4afc-9d69-b9a06b2ff4e6" />
   <img width="525" height="585" alt="image" src="https://github.com/user-attachments/assets/b8aa3689-3cb4-4e58-bf81-fc992b57e1c6" />
-  <img width="2244" height="8750" alt="image" src="https://github.com/user-attachments/assets/bd56dee1-884b-4015-8cdc-4318d0c6c5d3" />
-
 
 - API 활용
+  <img width="937" height="577" alt="image" src="https://github.com/user-attachments/assets/91d2cd37-da66-46b6-a007-72e6fed128ee" />
+  
 - 반응형 웹 기술
+  <img width="501" height="687" alt="image" src="https://github.com/user-attachments/assets/b87cd639-9666-452e-9b68-65ce5720c5c0" />
+  <img width="502" height="728" alt="image" src="https://github.com/user-attachments/assets/ae870efd-5e27-4b7f-af6a-af738c4f4183" />
+  
 - 폼 입력 구현
 - form + form validation
-
+  <img width="1007" height="302" alt="image" src="https://github.com/user-attachments/assets/8c0111a2-97e4-4276-8ede-eacbb821597c" />
+  
 ## 적용한 기술들
 
 ## 개발자 도구

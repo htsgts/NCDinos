@@ -10,6 +10,7 @@ NC 다이노스 웹 홈페이지
 
 - HTML, CSS, JavaScript, jQuery
 - 메뉴 UI 활용
+-   <img width="980" height="832" alt="image" src="https://github.com/user-attachments/assets/29445cc4-a9a4-4fc1-b06c-280ff865ec56" />
 - API 활용
 - 반응형 웹 기술
 - 폼 입력 구현

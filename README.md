@@ -7,11 +7,22 @@ NC 다이노스 웹 홈페이지
 - NC 다이노스가 2025년 많은 야구 전문가들이 하위권으로 예상을 하였고, 실제 시즌 초반에는 어려움(NC 구장 사고, 2달간 원정, 주축 선수 부상 등)을 겪으며 하위권에 있었으나, 후에 막판 3.5%의 가을야구 진출확률을 뚫고 가을야구를 하게 되었습니다. 마침 NC 공식 홈페이지를 통해 많은 소식들을 알 수 있게 되어서 이 기회에 웹으로 구현해보고자 했습니다. 구현은 실제 NC 다이노스 공식 홈페이지를 참고하였습니다.
 
 ## 웹 페이지 동작
-- 메인 페이지 화면<br>
+### 메인 페이지 화면<br>
   <img width="886" height="846" alt="image" src="https://github.com/user-attachments/assets/cbe5514c-eff7-4569-9c08-98c6bff55cbe" />
 
-- 메뉴 UI 활용<br>
+### 메뉴 UI 활용<br>
   <img width="852" height="80" alt="image" src="https://github.com/user-attachments/assets/c5a18242-38eb-46cc-bdd7-5a6ed6797e6a" />
+### 구단소개<br>
+  <img width="620" height="610" alt="image" src="https://github.com/user-attachments/assets/cc97cf34-e3d8-4a87-b8c5-c417fe21c6de" />
+### 기록실<br>
+  <img width="622" height="517" alt="image" src="https://github.com/user-attachments/assets/a6c7b969-d5a6-487d-8db2-c77db3e1fd35" />
+### 선수단<br>
+  <img width="602" height="652" alt="image" src="https://github.com/user-attachments/assets/7ba743a9-5f92-47cb-936c-e79798967bc7" />
+### 구장/시설안내<br>
+  <img width="592" height="661" alt="image" src="https://github.com/user-attachments/assets/8015009c-e2df-4afc-9d69-b9a06b2ff4e6" />
+  <img width="525" height="585" alt="image" src="https://github.com/user-attachments/assets/b8aa3689-3cb4-4e58-bf81-fc992b57e1c6" />
+  <img width="2244" height="8750" alt="image" src="https://github.com/user-attachments/assets/bd56dee1-884b-4015-8cdc-4318d0c6c5d3" />
+
 
 - API 활용
 - 반응형 웹 기술

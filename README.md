@@ -8,7 +8,7 @@ NC 다이노스 웹 홈페이지
 
 ## 웹 페이지 동작
 ### 메인 페이지 화면<br>
-  <img width="886" height="846" alt="image" src="https://github.com/user-attachments/assets/cbe5514c-eff7-4569-9c08-98c6bff55cbe" />
+  <img width="886" height="846" alt="image" src="https://github.com/user-attachments/assets/cbe5514c-eff7-4569-9c08-98c6bff55cbe" /><br>
 
 ### 메뉴 UI 활용<br>
   <img width="852" height="80" alt="image" src="https://github.com/user-attachments/assets/c5a18242-38eb-46cc-bdd7-5a6ed6797e6a" />

@@ -8,16 +8,20 @@ NC 다이노스 웹 홈페이지
 
 ## 웹 페이지 동작
 ### 메인 페이지 화면<br>
-  <img width="886" height="846" alt="image" src="https://github.com/user-attachments/assets/cbe5514c-eff7-4569-9c08-98c6bff55cbe" /><br>
+  <img width="886" height="846" alt="image" src="https://github.com/user-attachments/assets/cbe5514c-eff7-4569-9c08-98c6bff55cbe" />
 
 ### 메뉴 UI 활용<br>
   <img width="852" height="80" alt="image" src="https://github.com/user-attachments/assets/c5a18242-38eb-46cc-bdd7-5a6ed6797e6a" />
+  
 ### 구단소개<br>
   <img width="620" height="610" alt="image" src="https://github.com/user-attachments/assets/cc97cf34-e3d8-4a87-b8c5-c417fe21c6de" />
+  
 ### 기록실<br>
   <img width="622" height="517" alt="image" src="https://github.com/user-attachments/assets/a6c7b969-d5a6-487d-8db2-c77db3e1fd35" />
+  
 ### 선수단<br>
   <img width="602" height="652" alt="image" src="https://github.com/user-attachments/assets/7ba743a9-5f92-47cb-936c-e79798967bc7" />
+  
 ### 구장/시설안내<br>
   <img width="592" height="661" alt="image" src="https://github.com/user-attachments/assets/8015009c-e2df-4afc-9d69-b9a06b2ff4e6" />
   <img width="525" height="585" alt="image" src="https://github.com/user-attachments/assets/b8aa3689-3cb4-4e58-bf81-fc992b57e1c6" />

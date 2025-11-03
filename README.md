@@ -7,10 +7,12 @@ NC 다이노스 웹 홈페이지
 - NC 다이노스가 2025년 많은 야구 전문가들이 하위권으로 예상을 하였고, 실제 시즌 초반에는 어려움(NC 구장 사고, 2달간 원정, 주축 선수 부상 등)을 겪으며 하위권에 있었으나, 후에 막판 3.5%의 가을야구 진출확률을 뚫고 가을야구를 하게 되었습니다. 마침 NC 공식 홈페이지를 통해 많은 소식들을 알 수 있게 되어서 이 기회에 웹으로 구현해보고자 했습니다. 구현은 실제 NC 다이노스 공식 홈페이지를 참고하였습니다.
 
 ## 웹 페이지 동작
+- 메인 페이지 화면
+- <img width="886" height="846" alt="image" src="https://github.com/user-attachments/assets/cbe5514c-eff7-4569-9c08-98c6bff55cbe" />
 
-- HTML, CSS, JavaScript, jQuery
 - 메뉴 UI 활용
--   <img width="980" height="832" alt="image" src="https://github.com/user-attachments/assets/29445cc4-a9a4-4fc1-b06c-280ff865ec56" />
+  <img width="852" height="80" alt="image" src="https://github.com/user-attachments/assets/c5a18242-38eb-46cc-bdd7-5a6ed6797e6a" />
+
 - API 활용
 - 반응형 웹 기술
 - 폼 입력 구현

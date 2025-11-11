@@ -1,5 +1,6 @@
 # NCDinos
 NC 다이노스 웹 홈페이지
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNC_Dinos&psig=AOvVaw0FuGkAuIStSJ-SYMiI0b60&ust=1762936950085000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJiIjIfa6ZADFQAAAAAdAAAAABAE
 
 ## 📝소개
 - 기획의도

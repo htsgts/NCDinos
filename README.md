@@ -3,7 +3,7 @@
 
 ## NC 다이노스 웹 홈페이지<br>
 <img width="200" height="auto" alt="image" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/NC_Dinos_Emblem.svg/1200px-NC_Dinos_Emblem.svg.png" />
-
+</div>
 
 ## 📝소개
 - 기획의도

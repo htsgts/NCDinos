@@ -1,6 +1,6 @@
 # NCDinos
 NC 다이노스 웹 홈페이지
-<img width="200" height="auto" alt="image" src="**[https://github.com/user-attachments/assets/cbe5514c-eff7-4569-9c08-98c6bff55cbe**](https://upload.wikimedia.org/wikipedia/en/thumb/5/54/NC_Dinos_Emblem.svg/1200px-NC_Dinos_Emblem.svg.png)" />
+<img width="200" height="auto" alt="image" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/NC_Dinos_Emblem.svg/1200px-NC_Dinos_Emblem.svg.png" />
 
 
 ## 📝소개

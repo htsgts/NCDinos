@@ -22,7 +22,7 @@
 - NC 다이노스가 2025년 많은 야구 전문가(해설위원, 기자 등)들이 하위권으로 예상을 했다. 실제 시즌 초반에는 어려움(NC 구장 사고, 2달간 원정, 주축 선수 부상 등)을 겪으며 하위권에 있었으나, 후에 막판 3.5%의 가을야구 진출확률을 뚫고 가을야구를 하게 되었다. 마침 NC 공식 홈페이지를 통해 많은 소식들을 알 수 있게 되어서 이 기회에 웹으로 구현하고,웹페이지 구현은 실제 NC 다이노스 공식 홈페이지를 참고
 
 ## 홈페이지 구조
-<img width="810" height="auto" alt="image" src="https://github.com/user-attachments/assets/dfc8b28e-7d25-414a-baf8-9807353b3a36" />
+<img width="700" height="auto" alt="image" src="https://github.com/user-attachments/assets/dfc8b28e-7d25-414a-baf8-9807353b3a36" />
 
 ## 사용한 API
 <img width="107" height="153" alt="image" src="https://github.com/user-attachments/assets/8fc27a05-3f6e-4402-bbd6-476fc4228434" />

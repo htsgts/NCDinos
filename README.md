@@ -22,10 +22,11 @@
 - NC 다이노스가 2025년 많은 야구 전문가(해설위원, 기자 등)들이 하위권으로 예상을 했다. 실제 시즌 초반에는 어려움(NC 구장 사고, 2달간 원정, 주축 선수 부상 등)을 겪으며 하위권에 있었으나, 후에 막판 3.5%의 가을야구 진출확률을 뚫고 가을야구를 하게 되었다. 마침 NC 공식 홈페이지를 통해 많은 소식들을 알 수 있게 되어서 이 기회에 웹으로 구현하고,웹페이지 구현은 실제 NC 다이노스 공식 홈페이지를 참고
 
 ## 홈페이지 구조
-<img width="700" height="auto" alt="image" src="https://github.com/user-attachments/assets/dfc8b28e-7d25-414a-baf8-9807353b3a36" />
+<img width="1123" height="275" alt="image" src="https://github.com/user-attachments/assets/958bd923-ac71-4a58-a261-7fcc49d018ac" />
 
 ## 사용한 API
-https://developers.google.com/static/maps/images/maps-icon.svg
+
+<img width="107" height="auto" alt="image" src="https://github.com/user-attachments/assets/d34e8e7d-b705-40a6-b217-6a9be838c7f5" />
 - 구글맵 API 홈페이지 : https://maps.googleapis.com/
 
 ## 페이지 구성 
@@ -35,7 +36,7 @@ https://developers.google.com/static/maps/images/maps-icon.svg
 - 하단에 다이노스 하이라이트가 썸네일 이미지가 슬라이드 효과로 5개의 이미지를 보여주는데, 해당 썸네일을 클릭하면 해당 하이라이트 영상으로 이동한다.
 
 ▼이미지<br>
-<img width="700" height="auto" alt="image" src="https://github.com/user-attachments/assets/cbe5514c-eff7-4569-9c08-98c6bff55cbe" />
+<img width="700" height="auto" alt="image" src="https://github.com/user-attachments/assets/dfc8b28e-7d25-414a-baf8-9807353b3a36" />
 
 ### 상단 메뉴바<br>
 - 페이지 상단에 위치해 있으며, 이 메뉴바는 다른 페이지로 이동해도 변하지 않는다.

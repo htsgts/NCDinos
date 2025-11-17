@@ -36,14 +36,14 @@
 - 하단에 다이노스 하이라이트가 썸네일 이미지가 슬라이드 효과로 5개의 이미지를 보여주는데, 해당 썸네일을 클릭하면 해당 하이라이트 영상으로 이동한다.
 
 ▼이미지<br>
-<img width="700" height="auto" alt="image" src="https://github.com/user-attachments/assets/dfc8b28e-7d25-414a-baf8-9807353b3a36" />
+<img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/dfc8b28e-7d25-414a-baf8-9807353b3a36" />
 
 ### 상단 메뉴바<br>
 - 페이지 상단에 위치해 있으며, 이 메뉴바는 다른 페이지로 이동해도 변하지 않는다.
 - 좌측 이미지 로고를 클릭시 메인 페이지로 이동한다.
 
 ▼이미지<br>
-<img width="700" height="auto" alt="image" src="https://github.com/user-attachments/assets/00fe5716-1315-491b-8f5d-f5278840c5b1" />
+<img width="400" height="auto" alt="image" src="https://github.com/user-attachments/assets/00fe5716-1315-491b-8f5d-f5278840c5b1" />
 
 ### 구단소개<br>
 - 구단과 해당 연고지를 소개하는 내용으로 구성

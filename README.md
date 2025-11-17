@@ -125,12 +125,12 @@
 - 해당 이름이 있을 경우에는 한 글자라도 입력되면 화면에 표시
 
 ▼이미지<br>
-<img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/b2384877-6d80-47de-bfe8-2501e8d6cc2e" />
+<img width="550" height="auto" alt="image" src="https://github.com/user-attachments/assets/b2384877-6d80-47de-bfe8-2501e8d6cc2e" />
 
 - 입력에 있는 이름을 지우면 페이지를 원상태로 복구
 
 ▼이미지<br>
-<img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/c2b74162-407c-45cd-a70c-a50a368ff723" />
+<img width="550" height="auto" alt="image" src="https://github.com/user-attachments/assets/c2b74162-407c-45cd-a70c-a50a368ff723" />
 
 - 창원NC파크에서 찾아오시는 길에서 지도는 구글맵 API 키를 이용해서 지도를 불러오고 해당 위치를 표시
 

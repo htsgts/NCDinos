@@ -43,7 +43,7 @@
 - 좌측 이미지 로고를 클릭시 메인 페이지로 이동한다.
 
 ▼이미지<br>
-<img width="400" height="auto" alt="image" src="https://github.com/user-attachments/assets/00fe5716-1315-491b-8f5d-f5278840c5b1" />
+<img width="550" height="auto" alt="image" src="https://github.com/user-attachments/assets/00fe5716-1315-491b-8f5d-f5278840c5b1" />
 
 ### 구단소개<br>
 - 구단과 해당 연고지를 소개하는 내용으로 구성

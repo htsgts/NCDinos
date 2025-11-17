@@ -50,7 +50,7 @@
 - NC 다이노스 공식홈페이지 구단소개 참고(https://www.ncdinos.com/dinos/intro.do)
 
 ▼이미지<br>
-<img width="622" height="605" alt="image" src="https://github.com/user-attachments/assets/55c96e2c-360f-448f-b5c1-ef0916e36cb2" />
+<img width="622" height="auto" alt="image" src="https://github.com/user-attachments/assets/55c96e2c-360f-448f-b5c1-ef0916e36cb2" />
 
 ### 기록실<br>
 - 한 시즌 동안 팀 순위, 팀 투타 성적, 팀간 승패표 등으로 나누어 시즌별 팀 기록들을 표시
@@ -58,7 +58,7 @@
 - NC 다이노스 공식홈페이지 기록실 참고(https://www.ncdinos.com/record/majorRank.do)
 
 ▼이미지<br>
-<img width="625" height="557" alt="image" src="https://github.com/user-attachments/assets/c89e7136-dca1-4f78-b72f-d3446f4f54b6" />
+<img width="625" height="auto" alt="image" src="https://github.com/user-attachments/assets/c89e7136-dca1-4f78-b72f-d3446f4f54b6" />
 
 ### 선수단<br>
 - NC 다이노스의 코치진과 선수단으로 구성
@@ -66,19 +66,19 @@
 - NC 다이노스 공식홈페이지 선수단 참고(https://www.ncdinos.com/player/all/list.do)
 
 ▼이미지<br>
-<img width="621" height="661" alt="image" src="https://github.com/user-attachments/assets/45ff38e1-86a3-4afd-b18c-2a9113a1b027" />
+<img width="621" height="auto" alt="image" src="https://github.com/user-attachments/assets/45ff38e1-86a3-4afd-b18c-2a9113a1b027" />
 
 ### 구장/시설안내<br>
 - 창원 NC 파크의 구장 소개와 길안내, 내부 시설 안내등으로 구성
 - NC 다이노스 공식홈페이지 구단소개 참고(https://www.ncdinos.com/dinos/stadium.do)
 
 ▼이미지<br>
-<img width="600" height="681" alt="image" src="https://github.com/user-attachments/assets/36dbdd47-5ea1-4aa5-bf79-3826c10ef664" /><br>
+<img width="600" height="auto" alt="image" src="https://github.com/user-attachments/assets/36dbdd47-5ea1-4aa5-bf79-3826c10ef664" /><br>
 
 - 창원 NC 파크의 좌석과 해당 좌석 위치를 표시
 
 ▼이미지<br>
-<img width="483" height="567" alt="image" src="https://github.com/user-attachments/assets/66beb231-129c-4ee7-bd47-10a7f5a4ef9f" /><br>
+<img width="483" height="auto" alt="image" src="https://github.com/user-attachments/assets/66beb231-129c-4ee7-bd47-10a7f5a4ef9f" /><br>
 
 - 구글맵 지도에 창원 NC 파크의 위치와 마커 표시
 
@@ -94,43 +94,43 @@
 - 모바일 버전일 경우 PC 버전으로 표시된 메뉴바의 서식이 사라지고 화면 상단 우측에 '三' 표시
 
 ▼이미지<br>
-<img width="658" height="837" alt="image" src="https://github.com/user-attachments/assets/fcddab16-d73b-4777-85d9-4b5c3c0f5b48" />
+<img width="658" height="auto" alt="image" src="https://github.com/user-attachments/assets/fcddab16-d73b-4777-85d9-4b5c3c0f5b48" />
 
 - '三' 을 클릭하면 메뉴들을 나열
 
 ▼이미지<br>
-<img width="657" height="865" alt="image" src="https://github.com/user-attachments/assets/40cf3fc1-06fb-4f4b-9b36-905dec5938a3" />
+<img width="657" height="auto" alt="image" src="https://github.com/user-attachments/assets/40cf3fc1-06fb-4f4b-9b36-905dec5938a3" />
 
 ### 폼 입력 구현<br>
 - 선수단 페이지에서 선수 검색을 하는 기능은 정규식 표현을 통해서 검색한 이름의 유효성 검사를 진행
 
 ▼이미지<br>
-<img width="780" height="323" alt="image" src="https://github.com/user-attachments/assets/16a08099-f703-4eb5-a3d8-4979121b59ba" />
+<img width="780" height="auto" alt="image" src="https://github.com/user-attachments/assets/16a08099-f703-4eb5-a3d8-4979121b59ba" />
 
 - 입력이 되지 않았을 경우
 
 ▼이미지<br>
-<img width="562" height="307" alt="image" src="https://github.com/user-attachments/assets/456a558f-7510-467d-ad8f-2152ceb83caa" />
+<img width="562" height="auto" alt="image" src="https://github.com/user-attachments/assets/456a558f-7510-467d-ad8f-2152ceb83caa" />
 
 - 특수 문자나 숫자를 입력했을 경우
 
 ▼이미지<br>
-<img width="561" height="280" alt="image" src="https://github.com/user-attachments/assets/c8af1b9f-14ca-4962-9a60-3c90c7ccd71a" />
+<img width="561" height="auto" alt="image" src="https://github.com/user-attachments/assets/c8af1b9f-14ca-4962-9a60-3c90c7ccd71a" />
 
 - 입력한 이름이 목록에 없을 경우
 
 ▼이미지<br>
-<img width="562" height="270" alt="image" src="https://github.com/user-attachments/assets/e295c9f5-3fc6-49c7-8fda-11833d6925c7" />
+<img width="562" height="auto" alt="image" src="https://github.com/user-attachments/assets/e295c9f5-3fc6-49c7-8fda-11833d6925c7" />
 
 - 해당 이름이 있을 경우에는 한 글자라도 입력되면 화면에 표시
 
 ▼이미지<br>
-<img width="952" height="826" alt="image" src="https://github.com/user-attachments/assets/b2384877-6d80-47de-bfe8-2501e8d6cc2e" />
+<img width="952" height="auto" alt="image" src="https://github.com/user-attachments/assets/b2384877-6d80-47de-bfe8-2501e8d6cc2e" />
 
 - 입력에 있는 이름을 지우면 페이지를 원상태로 복구
 
 ▼이미지<br>
-<img width="943" height="836" alt="image" src="https://github.com/user-attachments/assets/c2b74162-407c-45cd-a70c-a50a368ff723" />
+<img width="943" height="auto" alt="image" src="https://github.com/user-attachments/assets/c2b74162-407c-45cd-a70c-a50a368ff723" />
 
 - 창원NC파크에서 찾아오시는 길에서 지도는 구글맵 API 키를 이용해서 지도를 불러오고 해당 위치를 표시
 

@@ -78,12 +78,12 @@
 - 창원 NC 파크의 좌석과 해당 좌석 위치를 표시
 
 ▼이미지<br>
-<img width="483" height="auto" alt="image" src="https://github.com/user-attachments/assets/66beb231-129c-4ee7-bd47-10a7f5a4ef9f" /><br>
+<img width="400" height="auto" alt="image" src="https://github.com/user-attachments/assets/66beb231-129c-4ee7-bd47-10a7f5a4ef9f" /><br>
 
 - 구글맵 지도에 창원 NC 파크의 위치와 마커 표시
 
 ▼이미지<br>
-<img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/48b9c4c2-0071-40e3-aaf0-787e1d3ac87f" /><br>
+<img width="400" height="auto" alt="image" src="https://github.com/user-attachments/assets/48b9c4c2-0071-40e3-aaf0-787e1d3ac87f" /><br>
 
 ### 포토<br>
 - NC 공식 홈페이지 포토로 이동(https://www.ncdinos.com/story/photo.do)
@@ -125,17 +125,17 @@
 - 해당 이름이 있을 경우에는 한 글자라도 입력되면 화면에 표시
 
 ▼이미지<br>
-<img width="600" height="auto" alt="image" src="https://github.com/user-attachments/assets/b2384877-6d80-47de-bfe8-2501e8d6cc2e" />
+<img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/b2384877-6d80-47de-bfe8-2501e8d6cc2e" />
 
 - 입력에 있는 이름을 지우면 페이지를 원상태로 복구
 
 ▼이미지<br>
-<img width="600" height="auto" alt="image" src="https://github.com/user-attachments/assets/c2b74162-407c-45cd-a70c-a50a368ff723" />
+<img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/c2b74162-407c-45cd-a70c-a50a368ff723" />
 
 - 창원NC파크에서 찾아오시는 길에서 지도는 구글맵 API 키를 이용해서 지도를 불러오고 해당 위치를 표시
 
 ▼이미지<br>
-<img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/48b9c4c2-0071-40e3-aaf0-787e1d3ac87f" /><br> 
+<img width="400" height="auto" alt="image" src="https://github.com/user-attachments/assets/48b9c4c2-0071-40e3-aaf0-787e1d3ac87f" /><br> 
 
 ## 기술적인 문제, 해결과정
 

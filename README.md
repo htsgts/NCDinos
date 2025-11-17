@@ -25,7 +25,7 @@
 <img width="700" height="auto" alt="image" src="https://github.com/user-attachments/assets/dfc8b28e-7d25-414a-baf8-9807353b3a36" />
 
 ## 사용한 API
-<img width="107" height="153" alt="image" src="https://github.com/user-attachments/assets/8fc27a05-3f6e-4402-bbd6-476fc4228434" />
+https://developers.google.com/static/maps/images/maps-icon.svg
 - 구글맵 API 홈페이지 : https://maps.googleapis.com/
 
 ## 페이지 구성 

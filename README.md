@@ -105,7 +105,7 @@
 - 선수단 페이지에서 선수 검색을 하는 기능은 정규식 표현을 통해서 검색한 이름의 유효성 검사를 진행
 
 ▼이미지<br>
-<img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/16a08099-f703-4eb5-a3d8-4979121b59ba" />
+<img width="400" height="auto" alt="image" src="https://github.com/user-attachments/assets/16a08099-f703-4eb5-a3d8-4979121b59ba" />
 
 - 입력이 되지 않았을 경우
 

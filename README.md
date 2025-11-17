@@ -50,7 +50,7 @@
 - NC 다이노스 공식홈페이지 구단소개 참고(https://www.ncdinos.com/dinos/intro.do)
 
 ▼이미지<br>
-<img width="622" height="auto" alt="image" src="https://github.com/user-attachments/assets/55c96e2c-360f-448f-b5c1-ef0916e36cb2" />
+<img width="400" height="auto" alt="image" src="https://github.com/user-attachments/assets/55c96e2c-360f-448f-b5c1-ef0916e36cb2" />
 
 ### 기록실<br>
 - 한 시즌 동안 팀 순위, 팀 투타 성적, 팀간 승패표 등으로 나누어 시즌별 팀 기록들을 표시
@@ -58,7 +58,7 @@
 - NC 다이노스 공식홈페이지 기록실 참고(https://www.ncdinos.com/record/majorRank.do)
 
 ▼이미지<br>
-<img width="625" height="auto" alt="image" src="https://github.com/user-attachments/assets/c89e7136-dca1-4f78-b72f-d3446f4f54b6" />
+<img width="400" height="auto" alt="image" src="https://github.com/user-attachments/assets/c89e7136-dca1-4f78-b72f-d3446f4f54b6" />
 
 ### 선수단<br>
 - NC 다이노스의 코치진과 선수단으로 구성
@@ -66,14 +66,14 @@
 - NC 다이노스 공식홈페이지 선수단 참고(https://www.ncdinos.com/player/all/list.do)
 
 ▼이미지<br>
-<img width="621" height="auto" alt="image" src="https://github.com/user-attachments/assets/45ff38e1-86a3-4afd-b18c-2a9113a1b027" />
+<img width="400" height="auto" alt="image" src="https://github.com/user-attachments/assets/45ff38e1-86a3-4afd-b18c-2a9113a1b027" />
 
 ### 구장/시설안내<br>
 - 창원 NC 파크의 구장 소개와 길안내, 내부 시설 안내등으로 구성
 - NC 다이노스 공식홈페이지 구단소개 참고(https://www.ncdinos.com/dinos/stadium.do)
 
 ▼이미지<br>
-<img width="600" height="auto" alt="image" src="https://github.com/user-attachments/assets/36dbdd47-5ea1-4aa5-bf79-3826c10ef664" /><br>
+<img width="400" height="auto" alt="image" src="https://github.com/user-attachments/assets/36dbdd47-5ea1-4aa5-bf79-3826c10ef664" /><br>
 
 - 창원 NC 파크의 좌석과 해당 좌석 위치를 표시
 

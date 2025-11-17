@@ -83,7 +83,7 @@
 - 구글맵 지도에 창원 NC 파크의 위치와 마커 표시
 
 ▼이미지<br>
-<img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/ba44c83a-2525-4544-ae97-30fad02b74cd" /><br>
+<img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/48b9c4c2-0071-40e3-aaf0-787e1d3ac87f" /><br>
 
 ### 포토<br>
 - NC 공식 홈페이지 포토로 이동(https://www.ncdinos.com/story/photo.do)
@@ -105,37 +105,37 @@
 - 선수단 페이지에서 선수 검색을 하는 기능은 정규식 표현을 통해서 검색한 이름의 유효성 검사를 진행
 
 ▼이미지<br>
-<img width="780" height="auto" alt="image" src="https://github.com/user-attachments/assets/16a08099-f703-4eb5-a3d8-4979121b59ba" />
+<img width="600" height="auto" alt="image" src="https://github.com/user-attachments/assets/16a08099-f703-4eb5-a3d8-4979121b59ba" />
 
 - 입력이 되지 않았을 경우
 
 ▼이미지<br>
-<img width="562" height="auto" alt="image" src="https://github.com/user-attachments/assets/456a558f-7510-467d-ad8f-2152ceb83caa" />
+<img width="300" height="auto" alt="image" src="https://github.com/user-attachments/assets/456a558f-7510-467d-ad8f-2152ceb83caa" />
 
 - 특수 문자나 숫자를 입력했을 경우
 
 ▼이미지<br>
-<img width="561" height="auto" alt="image" src="https://github.com/user-attachments/assets/c8af1b9f-14ca-4962-9a60-3c90c7ccd71a" />
+<img width="300" height="auto" alt="image" src="https://github.com/user-attachments/assets/c8af1b9f-14ca-4962-9a60-3c90c7ccd71a" />
 
 - 입력한 이름이 목록에 없을 경우
 
 ▼이미지<br>
-<img width="562" height="auto" alt="image" src="https://github.com/user-attachments/assets/e295c9f5-3fc6-49c7-8fda-11833d6925c7" />
+<img width="300" height="auto" alt="image" src="https://github.com/user-attachments/assets/e295c9f5-3fc6-49c7-8fda-11833d6925c7" />
 
 - 해당 이름이 있을 경우에는 한 글자라도 입력되면 화면에 표시
 
 ▼이미지<br>
-<img width="952" height="auto" alt="image" src="https://github.com/user-attachments/assets/b2384877-6d80-47de-bfe8-2501e8d6cc2e" />
+<img width="700" height="auto" alt="image" src="https://github.com/user-attachments/assets/b2384877-6d80-47de-bfe8-2501e8d6cc2e" />
 
 - 입력에 있는 이름을 지우면 페이지를 원상태로 복구
 
 ▼이미지<br>
-<img width="943" height="auto" alt="image" src="https://github.com/user-attachments/assets/c2b74162-407c-45cd-a70c-a50a368ff723" />
+<img width="700" height="auto" alt="image" src="https://github.com/user-attachments/assets/c2b74162-407c-45cd-a70c-a50a368ff723" />
 
 - 창원NC파크에서 찾아오시는 길에서 지도는 구글맵 API 키를 이용해서 지도를 불러오고 해당 위치를 표시
 
 ▼이미지<br>
-<img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/91d2cd37-da66-46b6-a007-72e6fed128ee" /><br> 
+<img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/48b9c4c2-0071-40e3-aaf0-787e1d3ac87f" /><br> 
 
 ## 기술적인 문제, 해결과정
 

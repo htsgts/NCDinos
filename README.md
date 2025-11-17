@@ -43,7 +43,7 @@
 - 좌측 이미지 로고를 클릭시 메인 페이지로 이동한다.
 
 ▼이미지<br>
-<img width="1027" height="auto" alt="image" src="https://github.com/user-attachments/assets/00fe5716-1315-491b-8f5d-f5278840c5b1" />
+<img width="700" height="auto" alt="image" src="https://github.com/user-attachments/assets/00fe5716-1315-491b-8f5d-f5278840c5b1" />
 
 ### 구단소개<br>
 - 구단과 해당 연고지를 소개하는 내용으로 구성
@@ -83,7 +83,7 @@
 - 구글맵 지도에 창원 NC 파크의 위치와 마커 표시
 
 ▼이미지<br>
-<img width="300" height="auto" alt="image" src="https://github.com/user-attachments/assets/ba44c83a-2525-4544-ae97-30fad02b74cd" /><br>
+<img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/ba44c83a-2525-4544-ae97-30fad02b74cd" /><br>
 
 ### 포토<br>
 - NC 공식 홈페이지 포토로 이동(https://www.ncdinos.com/story/photo.do)

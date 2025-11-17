@@ -94,18 +94,18 @@
 - 모바일 버전일 경우 PC 버전으로 표시된 메뉴바의 서식이 사라지고 화면 상단 우측에 '三' 표시
 
 ▼이미지<br>
-<img width="658" height="auto" alt="image" src="https://github.com/user-attachments/assets/fcddab16-d73b-4777-85d9-4b5c3c0f5b48" />
+<img width="400" height="auto" alt="image" src="https://github.com/user-attachments/assets/fcddab16-d73b-4777-85d9-4b5c3c0f5b48" />
 
 - '三' 을 클릭하면 메뉴들을 나열
 
 ▼이미지<br>
-<img width="657" height="auto" alt="image" src="https://github.com/user-attachments/assets/40cf3fc1-06fb-4f4b-9b36-905dec5938a3" />
+<img width="400" height="auto" alt="image" src="https://github.com/user-attachments/assets/40cf3fc1-06fb-4f4b-9b36-905dec5938a3" />
 
 ### 폼 입력 구현<br>
 - 선수단 페이지에서 선수 검색을 하는 기능은 정규식 표현을 통해서 검색한 이름의 유효성 검사를 진행
 
 ▼이미지<br>
-<img width="600" height="auto" alt="image" src="https://github.com/user-attachments/assets/16a08099-f703-4eb5-a3d8-4979121b59ba" />
+<img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/16a08099-f703-4eb5-a3d8-4979121b59ba" />
 
 - 입력이 되지 않았을 경우
 
@@ -125,12 +125,12 @@
 - 해당 이름이 있을 경우에는 한 글자라도 입력되면 화면에 표시
 
 ▼이미지<br>
-<img width="700" height="auto" alt="image" src="https://github.com/user-attachments/assets/b2384877-6d80-47de-bfe8-2501e8d6cc2e" />
+<img width="600" height="auto" alt="image" src="https://github.com/user-attachments/assets/b2384877-6d80-47de-bfe8-2501e8d6cc2e" />
 
 - 입력에 있는 이름을 지우면 페이지를 원상태로 복구
 
 ▼이미지<br>
-<img width="700" height="auto" alt="image" src="https://github.com/user-attachments/assets/c2b74162-407c-45cd-a70c-a50a368ff723" />
+<img width="600" height="auto" alt="image" src="https://github.com/user-attachments/assets/c2b74162-407c-45cd-a70c-a50a368ff723" />
 
 - 창원NC파크에서 찾아오시는 길에서 지도는 구글맵 API 키를 이용해서 지도를 불러오고 해당 위치를 표시
 
